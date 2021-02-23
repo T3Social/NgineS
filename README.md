@@ -25,7 +25,20 @@ There are two commonly used versions of the GNU LGPL.
 https://github.com/tinymce/tinymce/blob/develop/LICENSE.TXT
 check the conditions which clearly state - SAME license, commercial and private use and distribution possible - Disclose the source code! - 
 
-and there are more codes which force the license to GNU GPLv.2 - i.e. he is using "gettext" which is also GNU GPL v.2 (actually now MIT - https://github.com/php-gettext/Gettext/blob/master/LICENSE - but he is using a GNU version)
+and there are more codes which force the license to GNU GPLv.2 - i.e. GNU gettext - https://www.gnu.org/software/gettext/manual/html_node/Licenses.html#Licenses
+```
+The files of this package are covered by the licenses indicated in each particular file or directory. Here is a summary:
+
+The libintl and libasprintf libraries are covered by the 
+GNU Lesser General Public License (LGPL). A copy of the 
+license is included in GNU LGPL.
+The executable programs of this package and the libgettextpo 
+library are covered by the GNU General Public License (GPL). 
+A copy of the license is included in GNU GPL.
+```
+
+- i.e. he is using "gettext" which is also GNU GPL v.2 (actually now MIT - https://github.com/php-gettext/Gettext/blob/master/LICENSE - but he is using a GNU version)
+
 php-gettext - Zamblek Team is using a GNU GPLv.2 Version in Sngine
 ```
 Copyright (c) 2005 Steven Armstrong <sa at c-area dot ch>
