@@ -128,4 +128,4 @@ HTML Purifyer is LGPL v2 like Jquery (that is also MIT)
  
 http://www.olafsw.de/compatibility-lgpl2-lgpl3/
  this solves the compatibility issues. 
- In other words all code which until now had been released is GNU GPL.v.2 or any later version of GPL.
+ In other words all code which until now had been released has to be GNU GPL.v.2 or any later version of GPL because of the used GNU GPLv.2 Gettext code integrated to Sngine.
