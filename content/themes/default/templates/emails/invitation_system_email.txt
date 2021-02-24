@@ -1,0 +1,10 @@
+{__("Hi")},
+
+{__("We happy to invite you to our website")} {$system['system_title']}
+
+{__("To complete the registration process, please follow this link")}:
+{$system['system_url']}/signup
+
+{__("Your invitation code")}: {$code}
+
+{$system['system_title']} {__("Team")}
