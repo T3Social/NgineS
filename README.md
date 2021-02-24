@@ -12,6 +12,10 @@ Extra code we post here under T3Social will be available under a GPL/AGPL or LGP
 
 The Zamblek team is using the community edition of TinyMCE and this one is GNU LGPL v.2 and therfore also the complete code has to be released under GNU LGPL2 or be another GPL license when it is linked
 
+According to GNU LGPLv.2 it says:
+5. .... However, linking a "work that uses the Library" with the Library creates an executable that is a derivative of the Library (because it contains portions of the Library), rather than a "work that uses the library". The executable is therefore covered by this License. Section 6 states terms for distribution of such executables.
+https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
+
 ```
 tinymce/tinymce is licensed under the
 GNU Lesser General Public License v2.1
@@ -142,3 +146,9 @@ HTML Purifyer is LGPL v2 like Jquery (that is also MIT)
 http://www.olafsw.de/compatibility-lgpl2-lgpl3/
  this solves the compatibility issues. 
  In other words all code which until now had been released has to be GNU GPL.v.2 or any later version of GPL because of the used GNU GPLv.2 Gettext code integrated to Sngine.
+
+As an addition to twhat had been written already:
+Here is a short overview of GPL licenses used in the combined work of Sngine. For what I see the only suitable license for the whole work would be GPLv.3 or AGPLv.3 and for our t3.social we are using AGPLv.3.
+Because it is using the GPL licenses also the whole combined work has to be licensed under GNU GPL. THis again means that the code can be modified, distributed, copied according to the license conditions of GNU GPL. (as I am not a lawyer you might get a clear answer from a lawyer or the FSF directly).
+https://www.gnu.org/licenses/gpl-faq.en.html#AllCompatibility
+
