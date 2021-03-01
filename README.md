@@ -1,5 +1,5 @@
 ## T3Social Community
-The Ultimate PHP Social Network Platform
+A Community run PHP Social Network Platform currently still based on Sngine Core.
 
 This repository is empty but it enables everyone who is usig Sngine to contribute for a community edition.
 - You can post issues
