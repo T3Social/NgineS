@@ -1,6 +1,0 @@
-{__("Hi")} {$receiver['name']},
-
-{$user->_data['name']} {$notification['message']}
-{$notification['url']}
-
-{$system['system_title']} {__("Team")}
