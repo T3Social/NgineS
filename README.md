@@ -1,4 +1,4 @@
-## Sngine Community Edition
+## T3Social Community
 The Ultimate PHP Social Network Platform
 
 This repository is empty but it enables everyone who is usig Sngine to contribute for a community edition.
@@ -41,9 +41,9 @@ library are covered by the GNU General Public License (GPL).
 A copy of the license is included in GNU GPL.
 ```
 
-- i.e. he is using "gettext" which is also GNU GPL v.2 (actually now MIT - https://github.com/php-gettext/Gettext/blob/master/LICENSE - but he is using a GNU version)
+- i.e. he is using "gettext" which is also GNU GPL v.2 (while php-gettext is MIT - https://github.com/php-gettext/Gettext/blob/master/LICENSE - but he is using a GNU GPL version)
 
-php-gettext - Zamblek Team is using a GNU GPLv.2 Version in Sngine
+gettext - Zamblek Team is using a GNU GPLv.2 Version in Sngine
 ```
 Copyright (c) 2005 Steven Armstrong <sa at c-area dot ch>
    Copyright (c) 2009 Danilo Segan <danilo@kvota.net>
