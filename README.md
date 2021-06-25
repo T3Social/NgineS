@@ -8,6 +8,9 @@ This repository is empty but it enables everyone who to contribute for a communi
 
 Extra code we post here under T3Social will be available under a GPL/AGPL or LGPL v.3 license 
 
+## On Envato Market Place CodeCanyon an App is available by Zamblek which could be used as an idea.
+(even it is buggy and has features which cause additional costs actually but which could be replaced easily)
+
 # About used Licenses in the core code by Zamblek Team in their Envato CodeCanyon App
 
 The Zamblek team is using the community edition of TinyMCE and this one is GNU LGPL v.2 and therfore also the complete code has to be released under GNU LGPL2 or be another GPL license when it is linked
