@@ -1,4 +1,4 @@
-## T3Social Community
+## T3Social-Engine 
 A Community run PHP Social Network Platform.
 
 This repository is empty but it enables everyone who to contribute for a community edition.
@@ -9,7 +9,7 @@ This repository is empty but it enables everyone who to contribute for a communi
 Extra code we post here under T3Social will be available under a GPL/AGPL or LGPL v.3 license 
 
 ## On Envato Market Place CodeCanyon an App is available by Zamblek which could be used as an idea.
-(even it is buggy and has features which cause additional costs actually but which could be replaced easily)
+(even it is buggy and has features which cause additional costs but which could be replaced easily)
 
 # About used Licenses in the core code by Zamblek Team in their Envato CodeCanyon App
 
@@ -34,7 +34,8 @@ check the conditions which clearly state - SAME license, commercial and private 
 
 and there are more codes which force the license to GNU GPLv.2 - i.e. GNU gettext - https://www.gnu.org/software/gettext/manual/html_node/Licenses.html#Licenses
 ```
-The files of this package are covered by the licenses indicated in each particular file or directory. Here is a summary:
+The files of this package are covered by the licenses indicated in 
+each particular file or directory. Here is a summary:
 
 The libintl and libasprintf libraries are covered by the 
 GNU Lesser General Public License (LGPL). A copy of the 
@@ -167,17 +168,27 @@ https://creativecommons.org/licenses/by/4.0/
 You are free to:
 
 Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+Adapt — remix, transform, and build upon the material for any purpose, 
+even commercially.
  This license is acceptable for Free Cultural Works.
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+The licensor cannot revoke these freedoms as long as you follow the 
+license terms.
 Under the following terms:
 
-Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+Attribution — You must give appropriate credit, provide a link to the 
+license, and indicate if changes were made. You may do so in any 
+reasonable manner, but not in any way that suggests the licensor endorses 
+you or your use.
+No additional restrictions — You may not apply legal terms or technological 
+measures that legally restrict others from doing anything the license permits.
 Notices:
 
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+You do not have to comply with the license for elements of the material in 
+the public domain or where your use is permitted by an applicable exception 
+or limitation.
+No warranties are given. The license may not give you all of the permissions 
+necessary for your intended use. For example, other rights such as publicity, 
+privacy, or moral rights may limit how you use the material.
 ```
 
 
