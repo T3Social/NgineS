@@ -44,7 +44,7 @@ library are covered by the GNU General Public License (GPL).
 A copy of the license is included in GNU GPL.
 ```
 
-- i.e. he is using "gettext" which is also GNU GPL v.2 (while php-gettext is MIT - https://github.com/php-gettext/Gettext/blob/master/LICENSE - but he is using a GNU GPL version)
+- i.e. he is using "gettext" which is also GNU GPL v.2 (while php-gettext is MIT - https://github.com/php-gettext/Gettext/blob/master/LICENSE - but he is using a GNU GPL version) until Version 3.0 of the Envato CodeCanyon App released before March 5th and he integrated a clear derivate of the GNU GPL licensed gettext until March 10th, 2021.
 
 gettext - Zamblek Team is using a GNU GPLv.2 Version in their Envato CodeCanyon App
 ```
