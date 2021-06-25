@@ -1,14 +1,14 @@
 ## T3Social Community
-A Community run PHP Social Network Platform currently still based on Sngine Core.
+A Community run PHP Social Network Platform.
 
-This repository is empty but it enables everyone who is usig Sngine to contribute for a community edition.
+This repository is empty but it enables everyone who to contribute for a community edition.
 - You can post issues
 - we can have projects
 - a Wiki is available where people can contribute
 
-Extra code we post here under T3Social will be available under a GPL/AGPL or LGPL v.3 license as long as Sngine itself is not licensed clearly under GPLv.2+ or GPLv.3 itself.
+Extra code we post here under T3Social will be available under a GPL/AGPL or LGPL v.3 license 
 
-# About used Licenses in the core code by Zamblek Team
+# About used Licenses in the core code by Zamblek Team in their Envato CodeCanyon App
 
 The Zamblek team is using the community edition of TinyMCE and this one is GNU LGPL v.2 and therfore also the complete code has to be released under GNU LGPL2 or be another GPL license when it is linked
 
@@ -43,7 +43,7 @@ A copy of the license is included in GNU GPL.
 
 - i.e. he is using "gettext" which is also GNU GPL v.2 (while php-gettext is MIT - https://github.com/php-gettext/Gettext/blob/master/LICENSE - but he is using a GNU GPL version)
 
-gettext - Zamblek Team is using a GNU GPLv.2 Version in Sngine
+gettext - Zamblek Team is using a GNU GPLv.2 Version in their Envato CodeCanyon App
 ```
 Copyright (c) 2005 Steven Armstrong <sa at c-area dot ch>
    Copyright (c) 2009 Danilo Segan <danilo@kvota.net>
@@ -62,7 +62,7 @@ Copyright (c) 2005 Steven Armstrong <sa at c-area dot ch>
    Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 ```
 
-streams.php - Zamblek Team is using a GNU GPLv.2 Version in Sngine
+streams.php - Zamblek Team is using a GNU GPLv.2 Version  in their Envato CodeCanyon App
 ```
 /*
    Copyright (c) 2003, 2005, 2006, 2009 Danilo Segan <danilo@kvota.net>.
@@ -81,7 +81,7 @@ streams.php - Zamblek Team is using a GNU GPLv.2 Version in Sngine
 */
 ```
 
-pids dropin is GNU GPL. v.2 - Zamblek Team is using a GNU GPLv.2 Version in Sngine
+pids dropin is GNU GPL. v.2 - Zamblek Team is using a GNU GPLv.2 Version  in their Envato CodeCanyon App
 ```
 /*
    Copyright (c) 2003,2004,2005,2009 Danilo Segan <danilo@kvota.net>.
