@@ -6,6 +6,7 @@ This repository is empty but it enables everyone who to contribute for a modular
 - we can have projects for modules, themes
 - a Wiki is available where people can contribute
 - no copyright infringement is intended with this repository which holds ONLY code licensed under an Open Source License which are compatible with AGPL or which have to follow the License requirements of an integrated part of this script i.e. php-gettext (licensed under GNU GPL v2+ a.o.)
+- This repository will also function as a bugtracker for all our customers who are still using Sngine until the first stable release of NgineS will be available.
 
 Extra code we post here under T3Social for NgineS will be available under a GPL/AGPL or LGPL v.3 license 
 
