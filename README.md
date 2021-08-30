@@ -1,4 +1,4 @@
-## T3Social-Engine 
+## T3Social-NgineS 
 A Community run PHP Social Network Platform.
 
 This repository is empty but it enables everyone who to contribute for a modularized community edition.
@@ -8,10 +8,12 @@ This repository is empty but it enables everyone who to contribute for a modular
 
 Extra code we post here under T3Social will be available under a GPL/AGPL or LGPL v.3 license 
 
-## On Envato Market Place CodeCanyon an App is available by Zamblek (verified author name by Envato: Yehia Abed, Egypt) which could be used as an idea.
-(even it is buggy and has features which cause additional costs but which could be replaced easily)
+## On Envato Market Place CodeCanyon an App called "Sngine" is available by Zamblek (verified author name by Envato: Yehia Abed, Egypt) which could be used as an idea.
+The "Sngine" Version before March 5th, 2021 has integrated php-gettext by Danilo Segan, and all Code has therefore to follow the GNU GPL v2+ requirements - The script gets advertised on Evato Market place as the "The Ultimate PHP Social Network Platform" but unfortunately it is still missing a proper API, a modularized structure so that Modules and Themes could be integrated easily and it is using the Smart Templating Engine which is licensed under LGPLv3 and therefore is violating actually the GNU GPL v.2 and needs to get replaced too. Many features this script is having are connected to pretty exopensive external services and thow we like to change that too so a community edition can be really and truly following the Open Source spirite.
 
-# About used Licenses in the core code by Zamblek Team in their Envato CodeCanyon App
+The name of the community edition will be NgineS as we will use not only one Engine which drives all but instead modularize the system so we can speak of many Engines empower the ultimate best community run PHP Social Network Platform. Inspire to share and contribute with ideas, feedbacks and code. Contact us!
+
+# About used Licenses in the core code by Zamblek Team in their Envato CodeCanyon App which had php-gettext integrated until its Envato distribution before March 5, 2021, and a derivate of php-gettext until March 10, 2021.
 
 The Zamblek team is using the community edition of TinyMCE and this one is GNU LGPL v.2 and therfore also the complete code has to be released under GNU LGPL2 or be another GPL license when it is linked
 
