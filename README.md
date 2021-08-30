@@ -1,7 +1,7 @@
 ## T3Social-NgineS 
 The Ultimate Best Community run PHP Social Network Platform.
 
-This repository is empty but it enables everyone who to contribute for a modularized community edition.
+This repository is empty but it enables everyone who to contribute for a modularized NgineS Community Edition.
 - You can post issues
 - we can have projects for modules, themes
 - a Wiki is available where people can contribute
@@ -10,10 +10,10 @@ This repository is empty but it enables everyone who to contribute for a modular
 Extra code we post here under T3Social for NgineS will be available under a GPL/AGPL or LGPL v.3 license 
 
 ## NgineS - The Star and Ultimate Best Community run PHP Social Network Platform
-How do we get the idea to build a community run Social network Platform:
-On Envato Market Place CodeCanyon an App called "Sngine" is available by Zamblek (verified author name by Envato: Yehia Abed, Egypt) which could be used as an idea. The "Sngine" Version before March 5th, 2021 has integrated php-gettext by Danilo Segan, and all Code has therefore to follow the GNU GPL v2+ requirements - The script gets advertised on Envato Market place as the "The Ultimate PHP Social Network Platform" but unfortunately it is still missing a proper API, a modularized structure so that Modules and Themes could be integrated easily and it is using the Smart Templating Engine which is licensed under LGPLv3 and therefore is violating actually the GNU GPL v.2 and needs to get replaced too. Many features this script is having are connected to pretty exopensive external services and thow we like to change that too so a community edition can be really and truly following the Open Source spirite.
+How do we get the idea to build a community run Social Network Platform?
+On Envato Market Place CodeCanyon an App called "Sngine" is available by Zamblek (verified author name by Envato: Yehia Abed, Egypt) which could be used as an idea. The "Sngine" Version before March 5th, 2021 has integrated php-gettext by Danilo Segan, and all Code has therefore to follow the GNU GPL v2+ requirements - The script gets advertised on Envato Market place as the "The Ultimate PHP Social Network Platform" but unfortunately it is still missing a proper API, a modularized structure so that Modules and Themes could be integrated easily and it is using the Smart Templating Engine which is licensed under LGPLv3 and therefore is violating actually the GNU GPL v.2 and needs to get replaced too. Many features this script is having are connected to pretty expensive external services and thow we like to change that too. Our community edition can be really and truly following the Open Source spirit. Inspire to share!
 
-The name of the community edition will be NgineS as we will use not only one S(ingleE)ngine which drives all but instead modularize the system so we can speak of many Engines empowering the ultimate best community run PHP Social Network Platform. Inspire to share and contribute with ideas, feedbacks and code. Contact us!
+The name of the community edition will be NgineS as we will use not only one S(ingleE)ngine which drives all but instead modularize the system so we can speak of many Engines empowering the Ultimate Best Community run PHP Social Network Platform. Inspire to share and contribute with ideas, feedbacks and code. Contact us!
 
 # We did inspect the code base and the used Licenses in the core code by Yehia Abed/Zamblek Team in their Envato CodeCanyon App Sngine which had php-gettext integrated in all its Envato distribution before March 5, 2021, and a derivate of php-gettext until March 10, 2021. We will base it on that (GNU GPL) state.
 
