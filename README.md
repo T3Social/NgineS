@@ -1,14 +1,14 @@
 ## T3Social-Engine 
 A Community run PHP Social Network Platform.
 
-This repository is empty but it enables everyone who to contribute for a community edition.
+This repository is empty but it enables everyone who to contribute for a modularized community edition.
 - You can post issues
-- we can have projects
+- we can have projects for modules, themes
 - a Wiki is available where people can contribute
 
 Extra code we post here under T3Social will be available under a GPL/AGPL or LGPL v.3 license 
 
-## On Envato Market Place CodeCanyon an App is available by Zamblek which could be used as an idea.
+## On Envato Market Place CodeCanyon an App is available by Zamblek (verified author name by Envato: Yehia Abed, Egypt) which could be used as an idea.
 (even it is buggy and has features which cause additional costs but which could be replaced easily)
 
 # About used Licenses in the core code by Zamblek Team in their Envato CodeCanyon App
