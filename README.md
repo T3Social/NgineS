@@ -12,11 +12,11 @@ This repository is empty but it enables everyone who to contribute for a modular
 
 Extra code we post here under T3Social for NgineS will be available under a GPL/AGPL or LGPL v.3 license 
 
-## NgineS - The Star and Ultimate Best Community run PHP Social Network Platform
+## NgineS - Our History and Background
 How do we get the idea to build a community run Social Network Platform?
 On Envato Market Place CodeCanyon an App called "Sngine" is available by Zamblek (verified author name by Envato: Yehia Abed, Egypt) which could be used as an idea. The "Sngine" Version before March 5th, 2021 has integrated php-gettext by Danilo Segan, and all Code has therefore to follow the GNU GPL v2+ requirements - The script gets advertised on Envato Market place as the "The Ultimate PHP Social Network Platform" but unfortunately it is still missing a proper API, a modularized structure so that Modules and Themes could be integrated easily and it is using the Smart Templating Engine which is licensed under LGPLv3 and therefore is violating actually the GNU GPL v.2 and needs to get replaced too. Many features this script is having are connected to pretty expensive external services and thow we like to change that too. Our community edition can be really and truly following the Open Source spirit. Inspire to share!
 
-## NgineS - The Name
+## NgineS - The Name - The Star and Ultimate Best Community run PHP Social Network Platform with Multiple Engines
 The name of the community edition will be NgineS as we will use not only one S(ingleE)ngine which drives all but instead modularize the system so we can speak of many Engines empowering the Ultimate Best Community run PHP Social Network Platform. Inspire to share and contribute with ideas, feedbacks and code. Contact us!
 
 ## Code Inspection, Licenses, Research and Conclusions
