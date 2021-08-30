@@ -18,7 +18,8 @@ On Envato Market Place CodeCanyon an App called "Sngine" is available by Zamblek
 
 The name of the community edition will be NgineS as we will use not only one S(ingleE)ngine which drives all but instead modularize the system so we can speak of many Engines empowering the Ultimate Best Community run PHP Social Network Platform. Inspire to share and contribute with ideas, feedbacks and code. Contact us!
 
-# We did inspect the code base and the used Licenses in the core code by Yehia Abed/Zamblek Team in their Envato CodeCanyon App Sngine which had php-gettext integrated in all its Envato distribution before March 5, 2021, and a derivate of php-gettext until March 10, 2021. We will base it on that (GNU GPL) state.
+# Code Inspection, Licenses, Research and Conclusions
+We did inspect the code base and the used Licenses in the core code by Yehia Abed/Zamblek Team in their Envato CodeCanyon App Sngine which had php-gettext integrated in all its Envato distribution before March 5, 2021, and a derivate of php-gettext until March 10, 2021. We will base it on that (GNU GPL) state.
 
 The Zamblek team is using the community edition of TinyMCE and this one is GNU LGPL v.2 and therfore also the complete code has to be released under GNU LGPL2 or be another GPL license when it is linked.
 
